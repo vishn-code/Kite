@@ -35,7 +35,8 @@ You might see warnings stating:
 This is expected for the current beta release.
 
 <h2>Opening Kite Browser</h2>
-macOS (13 Ventura+) -  Open System Settings, go to "Privacy and Security" via scrolling through the sidebar/searching it in the search bar, after that scroll down until you see "This app was blocked, open anyway" click on open anyway and one warning dialog will come up after that, click on open and you can use the app.
+macOS 13 Ventura+ -  Open System Settings, go to "Privacy and Security" via scrolling through the sidebar/searching it in the search bar, after that scroll down until you see "This app was blocked, open anyway" click on open anyway and one warning dialog will come up after that, click on open and you can use the app.
+
 
 
 macOS 12 Monterey and below - Click the apple logo in the top-left corner of your screen and select "System Preferences", Click on "Security and Privacy", Select the General tab at the top, Look at the bottom-half of the window, you will see a note mentioning Kite Browser, click the lock icon in the bottom-left corner and enter your Mac password to allow changes, click the "Open Anyway" button to open Kite Browser and use the app.
