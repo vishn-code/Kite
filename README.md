@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Your main browser screenshot -->
   <img src="Kite.png" alt="Main Browser View" width="600" margin-bottom="12px">
   
   <h1>Kite Browser</h1>
